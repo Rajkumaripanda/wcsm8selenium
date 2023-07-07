@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\cpanigra\Desktop\wcsm8workspace\wcsm8seleniumproject\.metadata\.plugins\org.eclipse.jdt.core
